@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# FPGA project outputs
+sim/out/
+vivado_project/
+vivado_project_basys3/
+__pycache__/
